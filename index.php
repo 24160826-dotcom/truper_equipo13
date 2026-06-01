@@ -132,7 +132,7 @@
         profesional de herramientas, productos y refacciones.
     </p>
 
-    <a href="login.php" class="btn">Inicar sesion</a>
+    <a href="login.php" class="btn">Panel control kevin</a>
 </section>
 
 <section class="cards" id="productos">
