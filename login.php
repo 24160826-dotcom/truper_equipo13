@@ -152,7 +152,7 @@ body::before{
 <div class="login-box">
 
     <div class="logo">
-        TRUPER
+        Tercera oportuinidad 4sc SMKG
     </div>
 
     <h1 class="titulo">
