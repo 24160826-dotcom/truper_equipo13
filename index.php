@@ -126,10 +126,9 @@
 </header>
 
 <section class="hero">
-    <h2>Sistema Profesional TRUPER</h2>
+    <h2>tercera oportunidad 4sc SMKG</h2>
     <p>
-        Plataforma web desarrollada con PHP + MySQL para la gestión
-        profesional de herramientas, productos y refacciones.
+       plataforma desarrollada con mysql y ionos
     </p>
 
     <a href="login.php" class="btn">Inicar sesion</a>
