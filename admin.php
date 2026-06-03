@@ -206,7 +206,7 @@ tr:hover td{
 <div class="container">
 
     <div class="card">
-        <h1>Panel de Administración - juguetes</h1>
+        <h1>Panel de Administración - herramientas</h1>
         <p class="usuario">
             Usuario activo:
             <span class="badge"><?php echo $_SESSION['usuario']; ?></span>
