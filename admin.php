@@ -200,7 +200,7 @@ tr:hover td{
 
 <div class="header">
     <div class="logo">TRUPER</div>
-    <a href="logout.php">Cerrar login</a>
+    <a href="logout.php">Cerrar sesion</a>
 </div>
 
 <div class="container">
